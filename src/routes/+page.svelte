@@ -3,8 +3,7 @@
 </script>
 
 <section>
-	<div class="h-screen">
-		<img src={city} alt="" />
+	<div style="background-image: url({city})" class="h-screen">
 		<h1>Neo Diego</h1>
 	</div>
 </section>
