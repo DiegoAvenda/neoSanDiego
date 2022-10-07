@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+@font-face {
+	font-family: 'pixeloidSans';
+	src: url('./pixeloidSans-nR3g1.ttf');
+}
+
+body {
+	font-family: 'pixeloidSans';
+	background-color: black;
+	color: white;
+}
