@@ -1,9 +1,9 @@
 <script>
-	import skyscrapper from '$lib/images/sktscrappers.png';
+	import skyscraper from '$lib/images/skyscrapers.png';
 </script>
 
 <div class=" gap-16 grid place-items-center text-justify my-16 mx-52">
-	<img src={skyscrapper} alt="skycrapers" class="h-96" />
+	<img src={skyscraper} alt="skycrapers" class="h-96" />
 	<p>
 		Una bailarina exótica de la que se enamora un protagonista. La hermana mayor de la bailarina era
 		prostituta y fue asesinada brutalmente, la hermana menor entra a trabajar como bailarina para
