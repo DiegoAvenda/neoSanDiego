@@ -1,11 +1,11 @@
 <header class="items-center">
-	<a href="/"><img src="src/lib/images/logo.png" alt="logo" class="h-14 " /></a>
+	<a href="/"><img src="$src/lib/images/logo.png" alt="logo" class="h-14 " /></a>
 
 	<nav>
 		<ul>
 			<li>
 				<a href="https://www.wattpad.com/user/Davendanoh"
-					><img src="src/lib/images/wattpad.png" alt="wattpadIcon" /></a
+					><img src="$src/lib/images/wattpad.png" alt="wattpadIcon" /></a
 				>
 			</li>
 			<li>

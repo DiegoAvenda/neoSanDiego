@@ -1,5 +1,5 @@
 <div class=" gap-16 grid place-items-center text-justify my-16 mx-52">
-	<img src="src\lib\images\skyscrapers.png" alt="skycrapers" class="h-96" />
+	<img src="$src\lib\images\skyscrapers.png" alt="skycrapers" class="h-96" />
 	<p>
 		Una bailarina exótica de la que se enamora un protagonista. La hermana mayor de la bailarina era
 		prostituta y fue asesinada brutalmente, la hermana menor entra a trabajar como bailarina para
