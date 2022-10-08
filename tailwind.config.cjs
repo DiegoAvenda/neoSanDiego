@@ -4,9 +4,9 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				pixeloidSans: ['pixeloidSans-nR3g1']
+				CourierPrime: ['monospace']
 			}
-		}
-	},
-	plugins: []
+		},
+		plugins: []
+	}
 };

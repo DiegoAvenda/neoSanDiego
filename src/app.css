@@ -1,11 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+@font-face {
+	font-family: 'Japanese3017';
+	src: url('./Japanese3017-Eljn.ttf');
+}
 
 @font-face {
 	font-family: 'pixeloidSans';
 	src: url('./pixeloidSans-nR3g1.ttf');
+}
+
+@font-face {
+	font-family: 'AtariKids';
+	src: url('./AtariKids-r3dK.ttf');
 }
 
 body {

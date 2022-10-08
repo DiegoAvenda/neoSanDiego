@@ -2,9 +2,12 @@
 	import skyscraper from '$lib/images/skyscrapers.png';
 </script>
 
-<div class=" gap-16 grid place-items-center text-justify my-16 mx-52">
-	<img src={skyscraper} alt="skycrapers" class="h-96" />
-	<p>
+<section style="background-image: url({skyscraper})" class="h-screen grid place-items-center">
+	<h1 class="text-4xl">First Chapter</h1>
+</section>
+
+<div class="grid place-items-center text-justify my-16 mx-52">
+	<p class=" font-CourierPrime">
 		Una bailarina exótica de la que se enamora un protagonista. La hermana mayor de la bailarina era
 		prostituta y fue asesinada brutalmente, la hermana menor entra a trabajar como bailarina para
 		encontrar al asesino, el cual es un importante político que paga a la mafia para que le consiga
@@ -46,3 +49,11 @@
 		ser policía. Mira comida en la estufa, abre la cacerola y huele su interior. -I smell bullshit.
 	</p>
 </div>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+	section {
+		background-size: cover;
+	}
+</style>
