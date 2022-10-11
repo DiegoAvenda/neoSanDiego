@@ -1,5 +1,5 @@
 <script>
-	import wattpad from '$lib/images/wattpad.png';
+	import wattpad from '$lib/images/wattpadBlack.png';
 </script>
 
 <footer class="items-center text-black bg-white flex gap-4 p-4">
