@@ -12,5 +12,5 @@
 >
 	<h1 class="text-4xl font-['AtariKids']">Neo Diego</h1>
 	<h3 class="text-2xl font-['Japanese3017']">A cyberpunk story</h3>
-	<p>Una ciudad por la que vivir, luchar y morir.</p>
+	<p>A city to live, fight and die for.</p>
 </div>

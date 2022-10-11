@@ -18,7 +18,7 @@
 				<div on:click={toggleNavbar} class="flex md:hidden">
 					<button
 						type="button"
-						class="text-gray-800 hover:text-gray-400 focus:outline-none focus:text-gray-400"
+						class="text-white hover:text-gray-400 focus:outline-none focus:text-gray-400"
 					>
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -44,10 +44,12 @@
 					? 'flex'
 					: 'hidden'}"
 			>
-				<a class="text-gray-800 hover:text-blue-400" href="https://www.wattpad.com/user/Davendanoh"
+				<a
+					class="text-gray-800 hover:text-blue-400"
+					href="https://www.wattpad.com/1276706698-neo-diego-synopsis"
 					><img src={wattpad} alt="wattpadIcon" class="h-4" /></a
 				>
-				<a class="text-gray-800 hover:text-blue-400" href="/novel">Capitulos</a>
+				<a class="text-white hover:text-blue-400" href="/novel">Discover more</a>
 			</div>
 		</nav>
 	</div>
