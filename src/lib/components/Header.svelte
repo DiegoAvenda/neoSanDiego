@@ -11,15 +11,12 @@
 
 <header class="text-white font-['pixeloidSans']">
 	<div>
-		<nav class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center">
+		<nav class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
 			<div class="flex items-center justify-between">
 				<a href="/"><img src={logo} alt="logo" class="h-14 " /></a>
 				<!-- Mobile menu button -->
 				<div on:click={toggleNavbar} class="flex md:hidden">
-					<button
-						type="button"
-						class="text-white hover:text-gray-400 focus:outline-none focus:text-gray-400"
-					>
+					<button type="button" class="text-white hover:text-cyan-300 focus:outline-none">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							fill="none"
@@ -47,9 +44,9 @@
 				<a
 					class="text-gray-800 hover:text-blue-400"
 					href="https://www.wattpad.com/1276706698-neo-diego-synopsis"
-					><img src={wattpad} alt="wattpadIcon" class="h-4" /></a
+					><img src={wattpad} alt="wattpadIcon" class="h-6" /></a
 				>
-				<a class="text-white hover:text-blue-400" href="/novel">Discover more</a>
+				<a class="text-white hover:text-cyan-300" href="/chapters">Discover more</a>
 			</div>
 		</nav>
 	</div>

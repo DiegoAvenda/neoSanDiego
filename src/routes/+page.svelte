@@ -1,13 +1,13 @@
 <script context="module" lang="ts">
-	import city from '$lib/images/city.png';
+	import skyscrapers from '$lib/images/skyscrapers.png';
 </script>
 
 <svelte:head>
-	<title>Sveltekit Blog</title>
+	<title>Neo Diego</title>
 </svelte:head>
 
 <div
-	style="background-image: url({city})"
+	style="background-image: url({skyscrapers})"
 	class="gap-4 h-screen grid place-content-center text-center"
 >
 	<h1 class="text-4xl font-['AtariKids']">Neo Diego</h1>
